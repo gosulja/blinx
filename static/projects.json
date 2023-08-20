@@ -1,0 +1,111 @@
+{
+    "projects": {
+        "FluidUI": {
+            "name": "FluidUI - UI kit",
+            "description": "FluidUI is a UI kit specially built for Roblox use, it's heavily inspired by NextUI and it's components are a near match, I've decided to make this because of the lack of beatiful components I've seen in Roblox UIs. This is different to the cartoony UI components you've seen in Roblox games, I believe this'll inspire overs to create similar projects like this.",
+            "images": [
+                "https://cdn.discordapp.com/attachments/1109236269650817064/1141000230909788210/f04f90cb-f3bf-42d0-a273-1c7a1f264c6e.png",
+                "https://cdn.discordapp.com/attachments/1109236269650817064/1141000115860013146/258414134-39909574-8ddb-4a62-baf0-e6b0a013080e.png",
+                "https://cdn.discordapp.com/attachments/1109236269650817064/1141000062684635136/image.png",
+                "https://cdn.discordapp.com/attachments/1109236269650817064/1141000304138125342/image.png",
+                "https://cdn.discordapp.com/attachments/1109236269650817064/1141000392910590072/image.png",
+                "https://cdn.discordapp.com/attachments/1109236269650817064/1141000459977506898/image.png"
+            ],
+            "links": [
+                {
+                    "name": "VIEW ON GITHUB",
+                    "link": "https://github.com/cabingory/fluidui"
+                }
+            ]
+        },
+        "XForce": {
+            "name": "X-Force - GTA Mod Menu Clone",
+            "description": "X-Force is a popular mod menu for GTA V, and I decided to re-create it as a library for Roblox; just like any mod menu this is controllable via the arrow keys, return and backspace along with the mouse, it's planned to be released soon so make sure to keep an eye out for it on my YouTube!",
+            "images": [
+                "https://cdn.discordapp.com/attachments/1122653593728729120/1141002794279653428/image.png",
+                "https://cdn.discordapp.com/attachments/1109236269650817064/1141002919236358264/image.png",
+                "https://cdn.discordapp.com/attachments/1109236269650817064/1141003163810398297/image.png",
+                "https://cdn.discordapp.com/attachments/1109236269650817064/1141003246694047814/image.png"
+            ],
+            "links": [
+                {
+                    "name": "VIEW ON YOUTUBE",
+                    "link": "https://youtube.com/playlist?list=PLY0ZWu5wk5rYj_bq7hAG-25vZea0zrC4M"
+                }
+            ]
+        },
+        "RAINV2": {
+            "name": "Rain V2 - Interface Suite",
+            "description": "I made this interface suite as a base for a friend, I've decided to let other people use it, it was built upon one of my very old UI's so it's pretty buggy, but I want people to learn how to create libraries and components.",
+            "images": [
+                "https://cdn.discordapp.com/attachments/1109236269650817064/1141008563603517591/image.png",
+                "https://cdn.discordapp.com/attachments/1109236269650817064/1141008740489887875/image.png",
+                "https://cdn.discordapp.com/attachments/1109236269650817064/1141008876586680483/image.png",
+                "https://cdn.discordapp.com/attachments/1109236269650817064/1141008985697304586/image.png"
+            ],
+            "links": [
+                {
+                    "name": "VIEW ON YOUTUBE",
+                    "link": "https://youtube.com/playlist?list=PLY0ZWu5wk5rbBF7uLfyHyvtVop5Awnxaa"
+                },
+                {
+                    "name": "VIEW ON GITHUB",
+                    "link": "https://github.com/cabingory/RainV2Interface"
+                }
+            ]
+        },
+        "ImGui": {
+            "name": "ImGui Styled Library",
+            "description": "This is inspired by Dear ImGui, I wanted to create this because I've alwayss loved the design and style of ImGui interfaces.",
+            "images": [
+                "https://cdn.discordapp.com/attachments/1122653593728729120/1141443768655024169/image.png"
+            ],
+            "links": [
+                {
+                    "name": "VIEW ON YOUTUBE",
+                    "link": "https://youtube.com/playlist?list=PLY0ZWu5wk5ra3JsNAG4nV-NZuUYmZPIcc"
+                }
+            ]
+        },
+        "Flutter": {
+            "name": "Flutter - An Interface Plugin",
+            "description": "Flutter is inspired from UILabs, a story viewer for Roact / Fusion etc. I wanted to create this plugin to allow users to create beatiful UI components for their projects, it's easy to use like Figma and export and building the UIs is a breeze since it's very customizable. IT'll be released soon so keep an eye out!",
+            "images": [
+                "https://cdn.discordapp.com/attachments/1122653593728729120/1141739648201261076/image.png",
+                "https://cdn.discordapp.com/attachments/1122653593728729120/1141739793785557112/image.png"
+            ],
+            "links": [
+                {
+                    "name": "BACK TO TOP",
+                    "link": ""
+                }
+            ]
+        },
+        "Elysian": {
+            "name": "Elysian - Interface Suite",
+            "description": "This is another interface suite I've made, it isn't released yet but it has a lot of components packed into it, it's very easy to use and has a nice, modern and elegant design",
+            "images": [
+                "https://cdn.discordapp.com/attachments/1122653593728729120/1141487749522796635/image.png",
+                "https://cdn.discordapp.com/attachments/1122653593728729120/1141488530049212589/image.png",
+                "https://cdn.discordapp.com/attachments/1122653593728729120/1141488703617892484/image.png"
+            ],
+            "links": [
+                {
+                    "name": "BACK TO TOP",
+                    "link": ""
+                }
+            ]
+        },
+        "Portfolio": {
+            "name": "Portfolio",
+            "description": "You're viewing it right now, it's built upon SvelteKit, took me aproximately 5 hours!",
+            "images": ["https://cdn.discordapp.com/attachments/1122653593728729120/1141026199271919646/image.png"],
+            "links": [
+                {
+                    "name": "BACK TO TOP",
+                    "link": ""
+                }
+            ]
+        }
+    }
+}
